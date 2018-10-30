@@ -1,3 +1,3 @@
 # test
 
-le test
+le* test
